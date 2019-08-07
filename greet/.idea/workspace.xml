@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c65cb30-9fc8-4445-96ee-7021de398eca" name="Default Changelist" comment="" />
+    <list default="true" id="0c65cb30-9fc8-4445-96ee-7021de398eca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greet_server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/greet_server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greetpb/greet.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/greetpb/greet.pb.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,53 +13,142 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greet_server/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greetpb/greet.proto">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greetpb/greet.pb.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="223" column="10" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/greetpb/build.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="47" lean-forward="true" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go.mod">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/greet_server/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#14#111#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/go.sum">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/greetpb/greet.proto">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="209">
+                  <caret line="11" column="12" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/greetpb/greet.pb.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="456">
+                  <caret line="200" column="29" selection-start-line="200" selection-start-column="29" selection-end-line="200" selection-end-column="123" />
+                  <folding>
+                    <element signature="n#!!doc" />
+                    <element signature="e#427#497#0" />
+                    <element signature="e#762#1139#0" />
+                    <element signature="e#1176#1195#0" />
+                    <element signature="e#1231#1268#0" />
+                    <element signature="e#1304#1306#0" />
+                    <element signature="e#1353#1406#0" />
+                    <element signature="e#1457#1509#0" />
+                    <element signature="e#1587#1652#0" />
+                    <element signature="e#1701#1744#0" />
+                    <element signature="e#1779#1823#0" />
+                    <element signature="e#1864#1911#0" />
+                    <element signature="e#2010#2063#0" />
+                    <element signature="e#2025#2050#0" />
+                    <element signature="e#2105#2157#0" />
+                    <element signature="e#2120#2144#0" />
+                    <element signature="e#2177#2420#0" />
+                    <element signature="e#2461#2484#0" />
+                    <element signature="e#2524#2561#0" />
+                    <element signature="e#2601#2603#0" />
+                    <element signature="e#2654#2707#0" />
+                    <element signature="e#2762#2818#0" />
+                    <element signature="e#2900#2969#0" />
+                    <element signature="e#3022#3069#0" />
+                    <element signature="e#3108#3156#0" />
+                    <element signature="e#3201#3252#0" />
+                    <element signature="e#3361#3414#0" />
+                    <element signature="e#3376#3400#0" />
+                    <element signature="e#3435#3670#0" />
+                    <element signature="e#3712#3736#0" />
+                    <element signature="e#3777#3814#0" />
+                    <element signature="e#3855#3857#0" />
+                    <element signature="e#3909#3962#0" />
+                    <element signature="e#4018#4075#0" />
+                    <element signature="e#4158#4228#0" />
+                    <element signature="e#4282#4330#0" />
+                    <element signature="e#4370#4419#0" />
+                    <element signature="e#4465#4517#0" />
+                    <element signature="e#4623#4673#0" />
+                    <element signature="e#4638#4660#0" />
+                    <element signature="e#4687#4876#0" />
+                    <element signature="e#4890#4960#0" />
+                    <element signature="e#5006#6257#0" />
+                    <element signature="e#6376#6446#0" />
+                    <element signature="e#6557#6622#0" />
+                    <element signature="e#6796#6913#0" />
+                    <element signature="e#6939#6970#0" />
+                    <element signature="e#7039#7074#0" />
+                    <element signature="e#7199#7356#0" />
+                    <element signature="e#7315#7337#0" />
+                    <element signature="e#7448#7533#0" />
+                    <element signature="e#7789#7872#0" />
+                    <element signature="e#7946#8001#0" />
+                    <element signature="e#8165#8612#0" />
+                    <element signature="e#8223#8245#0" />
+                    <element signature="e#8269#8322#0" />
+                    <element signature="e#8353#8419#0" />
+                    <element signature="e#8496#8566#0" />
+                    <element signature="e#8662#8911#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/greetpb/build.sh">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="19">
+                  <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/go.mod">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="152">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/greet_client/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="627">
+                  <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+                  <folding>
+                    <element signature="e#14#122#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,15 +156,19 @@
       <find>regis</find>
     </findStrings>
   </component>
-  <component name="GOROOT" path="/usr/local/src/go12" />
+  <component name="GOROOT" path="/usr/src/go12" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/greet_server/main.go" />
         <option value="$PROJECT_DIR$/greetpb/build.sh" />
+        <option value="$PROJECT_DIR$/greet_server/main.go" />
+        <option value="$PROJECT_DIR$/greet_client/main.go" />
       </list>
     </option>
   </component>
@@ -84,6 +181,7 @@
     <option name="width" value="2543" />
     <option name="height" value="1372" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -99,12 +197,21 @@
             <path>
               <item name="greet" type="b2602c69:ProjectViewProjectNode" />
               <item name="greet" type="462c0819:PsiDirectoryNode" />
+              <item name="greet_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="greet" type="462c0819:PsiDirectoryNode" />
               <item name="greet_server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="greet" type="b2602c69:ProjectViewProjectNode" />
               <item name="greet" type="462c0819:PsiDirectoryNode" />
               <item name="greetpb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="greet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -115,13 +222,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,16 +245,42 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="greet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/greet_client/main.go" />
+      <package value="github.com/vvstdung89/greet" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="greet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/greet_server/main.go" />
+      <package value="github.com/vvstdung89/greet" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="-4" width="3395" height="1444" extended-state="6" />
+    <frame x="0" y="-2" width="2560" height="1442" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08892868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09029435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901752" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -152,13 +288,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901752" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Cargo" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="LuaJ" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,38 +305,115 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/go.mod">
+    <entry file="file://$PROJECT_DIR$/greetpb/build.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greetpb/greet.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greet_server/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="19">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/greetpb/greet.pb.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="223" column="10" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="10" />
+        <state relative-caret-position="456">
+          <caret line="200" column="29" selection-start-line="200" selection-start-column="29" selection-end-line="200" selection-end-column="123" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#427#497#0" />
+            <element signature="e#762#1139#0" />
+            <element signature="e#1176#1195#0" />
+            <element signature="e#1231#1268#0" />
+            <element signature="e#1304#1306#0" />
+            <element signature="e#1353#1406#0" />
+            <element signature="e#1457#1509#0" />
+            <element signature="e#1587#1652#0" />
+            <element signature="e#1701#1744#0" />
+            <element signature="e#1779#1823#0" />
+            <element signature="e#1864#1911#0" />
+            <element signature="e#2010#2063#0" />
+            <element signature="e#2025#2050#0" />
+            <element signature="e#2105#2157#0" />
+            <element signature="e#2120#2144#0" />
+            <element signature="e#2177#2420#0" />
+            <element signature="e#2461#2484#0" />
+            <element signature="e#2524#2561#0" />
+            <element signature="e#2601#2603#0" />
+            <element signature="e#2654#2707#0" />
+            <element signature="e#2762#2818#0" />
+            <element signature="e#2900#2969#0" />
+            <element signature="e#3022#3069#0" />
+            <element signature="e#3108#3156#0" />
+            <element signature="e#3201#3252#0" />
+            <element signature="e#3361#3414#0" />
+            <element signature="e#3376#3400#0" />
+            <element signature="e#3435#3670#0" />
+            <element signature="e#3712#3736#0" />
+            <element signature="e#3777#3814#0" />
+            <element signature="e#3855#3857#0" />
+            <element signature="e#3909#3962#0" />
+            <element signature="e#4018#4075#0" />
+            <element signature="e#4158#4228#0" />
+            <element signature="e#4282#4330#0" />
+            <element signature="e#4370#4419#0" />
+            <element signature="e#4465#4517#0" />
+            <element signature="e#4623#4673#0" />
+            <element signature="e#4638#4660#0" />
+            <element signature="e#4687#4876#0" />
+            <element signature="e#4890#4960#0" />
+            <element signature="e#5006#6257#0" />
+            <element signature="e#6376#6446#0" />
+            <element signature="e#6557#6622#0" />
+            <element signature="e#6796#6913#0" />
+            <element signature="e#6939#6970#0" />
+            <element signature="e#7039#7074#0" />
+            <element signature="e#7199#7356#0" />
+            <element signature="e#7315#7337#0" />
+            <element signature="e#7448#7533#0" />
+            <element signature="e#7789#7872#0" />
+            <element signature="e#7946#8001#0" />
+            <element signature="e#8165#8612#0" />
+            <element signature="e#8223#8245#0" />
+            <element signature="e#8269#8322#0" />
+            <element signature="e#8353#8419#0" />
+            <element signature="e#8496#8566#0" />
+            <element signature="e#8662#8911#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/greetpb/build.sh">
+    <entry file="file://$PROJECT_DIR$/greetpb/greet.proto">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="47" lean-forward="true" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greet_server/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding>
+            <element signature="e#14#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greet_client/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#14#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
